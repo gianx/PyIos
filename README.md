@@ -13,4 +13,6 @@ Easy to use, you've only to specify the list of device you want the software acc
 
     downpath = "./"
 
-At the end, run the script
+At the end, run the script.
+
+Follow [this](https://www.icj.me/tutorials/how-to-find-out-which-device-you-have) link if you want to know which is your device name.
